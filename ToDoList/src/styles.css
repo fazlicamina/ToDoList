@@ -5,3 +5,27 @@
     box-sizing: border-box;
     font-family: 'Montserrat';
 }
+
+h1{
+    color: #FE4880;
+    padding-left: 20px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.delete{
+    display: block;
+	max-width: 200px;
+    width: 70%;
+	appearance: none;
+	border: none;
+	outline: none;
+	background: none;
+
+	background-color: #FE4880;
+	color: #FFF;
+
+	padding: 5px;
+	font-size: 15px 25px;
+	font-weight: 700;
+}

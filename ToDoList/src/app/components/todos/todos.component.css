@@ -1,12 +1,11 @@
 .todo {
 	display: flex;
 	padding: 10px 15px;
-	background-color: #FFF;
-	border-bottom: 1px solid #DDD;
+	background-color: rgb(255, 220, 227);
 }
 
 .todo:nth-child(even) {
-	background-color: #EEE;
+	background-color: rgb(255, 164, 182);
 }
 
 .todo:last-of-type {
@@ -31,10 +30,11 @@
 	padding: 10px 15px;
 	appearance: none;
 	border: none;
-	background-color: #F3F3F3;
+	background-color: #ffffff;
 	margin-top: 15px;
 	font-size: 20px;
 	outline: none;
+	border: 1px solid #FE4880;
 }
 
 .todo-submit {
